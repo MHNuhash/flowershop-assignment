@@ -3,6 +3,7 @@
 body{
     font-family: Lato;
     font-style: normal;
+    /* line-height: normal; */
 }
 
 .btn-primary {
@@ -54,5 +55,57 @@ p{
 }
 
 /* body styles */
+
+.section-title{
+    padding: 100px 760px 0px 760px;
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+    margin-bottom: 0;
+}
+
+#freature-description{
+    padding: 25px 680px 10px 680px;
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    margin-top: 0;
+}
+
+.ft-container{
+    display: flex;
+    padding: 50px;
+    justify-content: space-around;
+    width: 1920px;
+    gap: 15px;
+    margin-top: 0;
+}
+
+.ft1{
+    width: 464px;
+    height: 538px;
+    /* flex-shrink: 0; */
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+}
+
+.ft2{
+    width: 464px;
+    height: 538px;
+    /* flex-shrink: 0; */
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(5, 151, 160, 0.15);
+}
+
+.ft3{
+    width: 464px;
+    height: 538px;
+    /* flex-shrink: 0; */
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(71, 125, 17, 0.15);
+}
+
 
 /* footer styles */
