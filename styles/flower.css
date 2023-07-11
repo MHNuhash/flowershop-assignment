@@ -4,7 +4,6 @@ body{
     font-family: Lato;
     font-style: normal;
     text-align: center;
-    /* line-height: normal; */
 }
 
 .btn-primary {
@@ -56,6 +55,7 @@ p{
 }
 
 /* body styles */
+/* section related style */
 
 .section-title{
     padding: 100px 760px 0px 760px;
@@ -104,7 +104,6 @@ p{
 
 .picture img {
     width: 310px;
-    height: auto;
 }
 
 .picture-name{
@@ -112,8 +111,28 @@ p{
     margin-top: 20px;
 }
 
+/* quality related style */
 
+.quality{
+    display: inline-flex;
+    /* flex-direction: row; */
+    justify-content: space-between;
+    border-radius: 8px;
+    background: rgba(39, 39, 39, 0.05);
+    /* width: 1010px; */
+    /* height: 250px;
+    flex-shrink: 0; */
+    margin-top: 100px;
+    padding: 85px 150px 70px 150px;
+    gap: 50px;
 
+}
+
+.quality-description
+{
+    color: rgba(39, 39, 39, 0.80);
+    text-align: center;
+}
 
 
 
