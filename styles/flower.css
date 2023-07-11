@@ -233,9 +233,26 @@ p{
     background: #FFF;
     border: 0px;
 }
-
-
-
     
 
 /* footer styles */
+
+footer{
+    background: #111010;
+    width: 1922px;
+    height: 449px;
+    flex-shrink: 0;
+}
+
+.on{
+color: #FFFFFF;
+}
+
+
+#freature-description{
+    color: rgba(255, 255, 255, 0.90);
+}
+
+.baby{
+    color: #FFFFFF66;
+}
