@@ -185,8 +185,41 @@ p{
     width: 700px;
 }
 
+/* flowers sections */
 
 
+.pic-container{
+    display: inline-flex;
+    gap: 20px;
+    justify-content: space-between;
+    margin-bottom: 10px;
+}
+
+.pic{
+    text-align: center;
+    width: 342px;
+    height: 396px;
+}
+
+.pic1{
+    background: url(<path-to-image>), lightgray 50% / cover no-repeat;
+}
+
+.pic2{
+    background: url(<path-to-image>), lightgray 50% / cover no-repeat;
+}
+
+.pic3{
+    background: url(<path-to-image>), lightgray 50% / cover no-repeat;
+}
+
+.pic4{
+    background: url(<path-to-image>), lightgray -11.535px 0px / 173.728% 100% no-repeat;
+}
+
+.pic img {
+    
+}
 
 
 
