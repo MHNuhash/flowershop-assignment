@@ -249,9 +249,12 @@ color: #FFFFFF;
 }
 
 
-#freature-description{
+.sec-description{
+    padding: 25px 680px 10px 680px;
     color: rgba(255, 255, 255, 0.90);
+    width: 550px;
 }
+
 
 .baby{
     color: #FFFFFF66;
