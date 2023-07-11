@@ -217,10 +217,25 @@ p{
     background: url(<path-to-image>), lightgray -11.535px 0px / 173.728% 100% no-repeat;
 }
 
-.pic img {
-    
+/* last section */
+
+.last-section{
+    background-image: url(../images/Rectangle\ 9.png);
+    margin: 120px 20px 120px 20px;
+    padding-bottom: 80px;
+}
+
+.input{
+    width: 700px;
+    height: 64px;
+    flex-shrink: 0;
+    border-radius: 8px;
+    background: #FFF;
+    border: 0px;
 }
 
 
+
+    
 
 /* footer styles */
