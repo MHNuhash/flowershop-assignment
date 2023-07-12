@@ -234,11 +234,31 @@ p{
     background: url(<path-to-image>), lightgray -11.535px 0px / 173.728% 100% no-repeat;
 }
 
+/* flower section2 */
+
+.bg{
+    border-radius: 8px;
+    background: rgba(229, 84, 115, 0.05);
+    width: 1922px;
+    height: 800px;
+}
+
+.btn {
+    padding: 20px 30px;
+    align-items: flex-start;
+    border-radius: 8px;
+    background: #ff0339;
+    border: 0px;
+    color: white;
+    margin-top: 10px;
+}
+
+
 /* last section */
 
 .last-section{
     background-image: url(../images/Rectangle\ 9.png);
-    margin: 120px 20px 120px 20px;
+    margin: 120px 25px 120px 25px;
     padding-bottom: 80px;
 }
 
